@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commonmark-0.15.2">
+    <CLASSES>
+      <root url="jar://D:/360MoveData/Users/24378/Desktop/期末/jar/commonmark-0.15.2.jar!/" />
+      <root url="jar://D:/360MoveData/Users/24378/Desktop/期末/jar/commonmark-ext-gfm-tables-0.15.2.jar!/" />
+      <root url="jar://D:/360MoveData/Users/24378/Desktop/期末/jar/commonmark-ext-heading-anchor-0.15.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
